@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T03:12:12.078277+00:00",
+  "updated_at": "2026-10-16T03:16:53.811398+00:00",
   "provider": "SerpApi Google Flights",
   "environment": "production",
   "departure": "SEA",
@@ -804,6 +804,10 @@
     }
   ],
   "history": [
+    {
+      "date": "2026-10-16",
+      "lowest_usd": 566.0
+    },
     {
       "date": "2026-10-16",
       "lowest_usd": 566.0
