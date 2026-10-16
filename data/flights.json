@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T03:42:19.357107+00:00",
-  "provider": "SerpApi Google Flights",
+  "updated_at": "2026-10-16T03:54:12.763029+00:00",
+  "provider": "Google Flights via SerpApi; Aviasales via Travelpayouts",
   "environment": "production",
   "departure": "SEA",
   "destination": "ANY",
@@ -845,6 +845,11 @@
       "date": "2026-10-16",
       "lowest_usd": 634.0,
       "destination": "KEF"
+    },
+    {
+      "date": "2026-10-16",
+      "lowest_usd": 634.0,
+      "destination": "KEF"
     }
   ],
   "lowest_by_destination": {
@@ -857,5 +862,6 @@
     "NRT": 1963.0
   },
   "alerts": [],
-  "note": "Seven rotating destination/date combinations checked daily. Indicative Google Flights prices; confirm round-trip total and availability before booking. Other destinations were not checked today."
+  "note": "Seven rotating destinations checked daily. Google Flights fares are indicative; Aviasales fares are cached. Verify complete round-trip totals before booking. Other destinations were not checked today.",
+  "aviasales_offers": 0
 }
