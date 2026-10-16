@@ -1,5 +1,5 @@
 
-name: Daily SEA CPH fare update
+name: Daily SEA worldwide fare update
 
 on:
   push:
