@@ -35,7 +35,6 @@ jobs:
         if: github.event_name != 'push'
         env:
           SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
-          TRAVELPAYOUTS_API_TOKEN: ${{ secrets.TRAVELPAYOUTS_API_TOKEN }}
         run: python fetch_flights.py
 
       - name: Save updated fare data
