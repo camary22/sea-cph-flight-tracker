@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T17:48:35.860444+00:00",
+  "updated_at": "2026-10-16T18:40:26.767211+00:00",
   "provider": "SerpApi Google Flights",
   "environment": "production",
   "departure": "SEA",
@@ -822,6 +822,11 @@
       "date": "2026-10-16",
       "lowest_usd": 634.0,
       "destination": "KEF"
+    },
+    {
+      "date": "2026-10-16",
+      "lowest_usd": 634.0,
+      "destination": "KEF"
     }
   ],
   "lowest_by_destination": {
@@ -833,31 +838,6 @@
     "ATH": 1605.0,
     "NRT": 1960.0
   },
-  "alerts": [
-    {
-      "destination": "IST",
-      "previous_usd": 941.0,
-      "current_usd": 925.0,
-      "departure": "2026-12-10",
-      "return": "2026-12-13",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20IST%202026-12-10%202026-12-13"
-    },
-    {
-      "destination": "NRT",
-      "previous_usd": 1962.0,
-      "current_usd": 1960.0,
-      "departure": "2026-12-28",
-      "return": "2027-01-02",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20NRT%202026-12-28%202027-01-02"
-    },
-    {
-      "destination": "NRT",
-      "previous_usd": 1962.0,
-      "current_usd": 1960.0,
-      "departure": "2026-12-28",
-      "return": "2027-01-02",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20NRT%202026-12-28%202027-01-02"
-    }
-  ],
+  "alerts": [],
   "note": "Seven rotating destinations checked daily. Google Flights fares are indicative. Verify complete round-trip totals before booking. Other destinations were not checked today."
 }
