@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T23:01:12.172274+00:00",
+  "updated_at": "2026-11-03T20:49:21.932225+00:00",
   "provider": "SerpApi Google Flights",
   "environment": "production",
   "departure": "SEA",
@@ -7,834 +7,774 @@
   "trip_type": "round-trip",
   "budget_usd": null,
   "searched_destinations": [
-    "CDG",
-    "AMS",
-    "FCO",
-    "MAD",
-    "BCN",
-    "LIS",
-    "CPH"
+    "KEF",
+    "DUB",
+    "FRA",
+    "ZRH",
+    "IST",
+    "ATH",
+    "NRT"
   ],
   "requests_attempted": 7,
-  "errors_count": 0,
+  "errors_count": 1,
   "offers": [
     {
-      "departure": "2026-11-22",
-      "return": "2026-11-26",
-      "destination": "CPH",
-      "calendar_days": 5,
-      "price_usd": 616.0,
+      "departure": "2026-12-10",
+      "return": "2026-12-15",
+      "destination": "KEF",
+      "calendar_days": 6,
+      "price_usd": 656.0,
       "carriers": [
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20KEF%202026-12-10%202026-12-15"
+    },
+    {
+      "departure": "2026-12-10",
+      "return": "2026-12-15",
+      "destination": "KEF",
+      "calendar_days": 6,
+      "price_usd": 670.0,
+      "carriers": [
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20KEF%202026-12-10%202026-12-15"
+    },
+    {
+      "departure": "2026-12-10",
+      "return": "2026-12-15",
+      "destination": "KEF",
+      "calendar_days": 6,
+      "price_usd": 703.0,
+      "carriers": [
+        "Discover Airlines",
         "Lufthansa"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CPH%202026-11-22%202026-11-26"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20KEF%202026-12-10%202026-12-15"
     },
     {
-      "departure": "2026-11-22",
-      "return": "2026-11-26",
-      "destination": "CPH",
-      "calendar_days": 5,
-      "price_usd": 632.0,
+      "departure": "2026-12-10",
+      "return": "2026-12-15",
+      "destination": "KEF",
+      "calendar_days": 6,
+      "price_usd": 703.0,
       "carriers": [
-        "Air France",
-        "Delta"
+        "Air Canada",
+        "Discover Airlines",
+        "Lufthansa"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CPH%202026-11-22%202026-11-26"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20KEF%202026-12-10%202026-12-15"
     },
     {
-      "departure": "2026-11-22",
-      "return": "2026-11-26",
-      "destination": "CPH",
+      "departure": "2027-01-24",
+      "return": "2027-01-28",
+      "destination": "ATH",
       "calendar_days": 5,
-      "price_usd": 632.0,
+      "price_usd": 890.0,
       "carriers": [
-        "Delta",
-        "Scandinavian Airlines"
+        "Aegean",
+        "Condor"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CPH%202026-11-22%202026-11-26"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ATH%202027-01-24%202027-01-28"
     },
     {
-      "departure": "2026-11-22",
-      "return": "2026-11-26",
-      "destination": "CPH",
+      "departure": "2027-01-24",
+      "return": "2027-01-28",
+      "destination": "ATH",
       "calendar_days": 5,
-      "price_usd": 637.0,
+      "price_usd": 890.0,
       "carriers": [
-        "Lufthansa",
-        "Lufthansa City Airlines"
+        "Condor",
+        "SKY express"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CPH%202026-11-22%202026-11-26"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ATH%202027-01-24%202027-01-28"
     },
     {
-      "departure": "2026-11-22",
-      "return": "2026-11-26",
-      "destination": "CPH",
-      "calendar_days": 5,
-      "price_usd": 643.0,
+      "departure": "2027-01-06",
+      "return": "2027-01-08",
+      "destination": "ZRH",
+      "calendar_days": 3,
+      "price_usd": 906.0,
       "carriers": [
-        "Delta",
-        "Scandinavian Airlines"
+        "Air Canada",
+        "SWISS"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CPH%202026-11-22%202026-11-26"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ZRH%202027-01-06%202027-01-08"
     },
     {
-      "departure": "2026-11-22",
-      "return": "2026-11-26",
-      "destination": "CPH",
-      "calendar_days": 5,
-      "price_usd": 643.0,
+      "departure": "2027-01-06",
+      "return": "2027-01-08",
+      "destination": "ZRH",
+      "calendar_days": 3,
+      "price_usd": 906.0,
       "carriers": [
-        "Delta",
-        "KLM"
+        "Air Canada",
+        "SWISS"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CPH%202026-11-22%202026-11-26"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ZRH%202027-01-06%202027-01-08"
     },
     {
-      "departure": "2026-11-22",
-      "return": "2026-11-26",
-      "destination": "CPH",
-      "calendar_days": 5,
-      "price_usd": 645.0,
+      "departure": "2027-01-15",
+      "return": "2027-01-18",
+      "destination": "IST",
+      "calendar_days": 4,
+      "price_usd": 912.0,
       "carriers": [
         "Air Canada",
         "Lufthansa"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CPH%202026-11-22%202026-11-26"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20IST%202027-01-15%202027-01-18"
     },
     {
-      "departure": "2026-11-22",
-      "return": "2026-11-26",
-      "destination": "CPH",
-      "calendar_days": 5,
-      "price_usd": 697.0,
+      "departure": "2027-01-15",
+      "return": "2027-01-18",
+      "destination": "IST",
+      "calendar_days": 4,
+      "price_usd": 932.0,
       "carriers": [
+        "Lufthansa"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20IST%202027-01-15%202027-01-18"
+    },
+    {
+      "departure": "2027-01-15",
+      "return": "2027-01-18",
+      "destination": "IST",
+      "calendar_days": 4,
+      "price_usd": 932.0,
+      "carriers": [
+        "Lufthansa"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20IST%202027-01-15%202027-01-18"
+    },
+    {
+      "departure": "2027-01-15",
+      "return": "2027-01-18",
+      "destination": "IST",
+      "calendar_days": 4,
+      "price_usd": 955.0,
+      "carriers": [
+        "Delta",
+        "KLM"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20IST%202027-01-15%202027-01-18"
+    },
+    {
+      "departure": "2026-12-10",
+      "return": "2026-12-15",
+      "destination": "KEF",
+      "calendar_days": 6,
+      "price_usd": 969.0,
+      "carriers": [
+        "Icelandair",
+        "Southwest"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20KEF%202026-12-10%202026-12-15"
+    },
+    {
+      "departure": "2026-12-10",
+      "return": "2026-12-15",
+      "destination": "KEF",
+      "calendar_days": 6,
+      "price_usd": 970.0,
+      "carriers": [
+        "Alaska",
         "Icelandair"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CPH%202026-11-22%202026-11-26"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20KEF%202026-12-10%202026-12-15"
     },
     {
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "destination": "MAD",
-      "calendar_days": 8,
-      "price_usd": 792.0,
-      "carriers": [
-        "Air Europa",
-        "Delta"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "destination": "MAD",
-      "calendar_days": 8,
-      "price_usd": 803.0,
-      "carriers": [
-        "British Airways"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "destination": "MAD",
-      "calendar_days": 8,
-      "price_usd": 816.0,
-      "carriers": [
-        "British Airways"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "destination": "MAD",
-      "calendar_days": 8,
-      "price_usd": 832.0,
+      "departure": "2026-12-10",
+      "return": "2026-12-15",
+      "destination": "KEF",
+      "calendar_days": 6,
+      "price_usd": 990.0,
       "carriers": [
         "Alaska",
-        "American"
+        "Icelandair"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20KEF%202026-12-10%202026-12-15"
     },
     {
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "destination": "LIS",
+      "departure": "2027-01-15",
+      "return": "2027-01-18",
+      "destination": "IST",
       "calendar_days": 4,
-      "price_usd": 842.0,
+      "price_usd": 993.0,
       "carriers": [
         "Air France",
         "Delta"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20IST%202027-01-15%202027-01-18"
     },
     {
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "destination": "LIS",
-      "calendar_days": 4,
-      "price_usd": 843.0,
+      "departure": "2027-01-24",
+      "return": "2027-01-28",
+      "destination": "ATH",
+      "calendar_days": 5,
+      "price_usd": 1040.0,
       "carriers": [
-        "Delta"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "destination": "LIS",
-      "calendar_days": 4,
-      "price_usd": 846.0,
-      "carriers": [
-        "Delta",
-        "KLM"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "destination": "MAD",
-      "calendar_days": 8,
-      "price_usd": 852.0,
-      "carriers": [
+        "Condor",
         "Lufthansa"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ATH%202027-01-24%202027-01-28"
     },
     {
-      "departure": "2026-12-08",
-      "return": "2026-12-12",
-      "destination": "CDG",
-      "calendar_days": 5,
-      "price_usd": 856.0,
+      "departure": "2026-12-10",
+      "return": "2026-12-15",
+      "destination": "KEF",
+      "calendar_days": 6,
+      "price_usd": 1069.0,
       "carriers": [
         "Icelandair"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CDG%202026-12-08%202026-12-12"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20KEF%202026-12-10%202026-12-15"
     },
     {
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "destination": "MAD",
-      "calendar_days": 8,
-      "price_usd": 856.0,
-      "carriers": [
-        "Delta",
-        "KLM"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "destination": "MAD",
-      "calendar_days": 8,
-      "price_usd": 878.0,
-      "carriers": [
-        "British Airways",
-        "Iberia"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "destination": "MAD",
-      "calendar_days": 8,
-      "price_usd": 883.0,
-      "carriers": [
-        "British Airways"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "destination": "LIS",
-      "calendar_days": 4,
-      "price_usd": 893.0,
+      "departure": "2026-12-10",
+      "return": "2026-12-15",
+      "destination": "KEF",
+      "calendar_days": 6,
+      "price_usd": 1081.0,
       "carriers": [
         "Alaska",
-        "American"
+        "Icelandair"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20KEF%202026-12-10%202026-12-15"
     },
     {
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "destination": "MAD",
-      "calendar_days": 8,
-      "price_usd": 901.0,
-      "carriers": [
-        "Air France",
-        "Delta"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "destination": "LIS",
+      "departure": "2027-01-15",
+      "return": "2027-01-18",
+      "destination": "IST",
       "calendar_days": 4,
-      "price_usd": 901.0,
+      "price_usd": 1091.0,
       "carriers": [
-        "Air Canada"
+        "Turkish Airlines"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20IST%202027-01-15%202027-01-18"
     },
     {
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "destination": "LIS",
-      "calendar_days": 4,
-      "price_usd": 902.0,
-      "carriers": [
-        "United"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "destination": "LIS",
-      "calendar_days": 4,
-      "price_usd": 904.0,
-      "carriers": [
-        "Lufthansa"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "destination": "MAD",
-      "calendar_days": 8,
-      "price_usd": 929.0,
-      "carriers": [
-        "American"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "destination": "LIS",
-      "calendar_days": 4,
-      "price_usd": 957.0,
-      "carriers": [
-        "British Airways"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "departure": "2026-11-22",
-      "return": "2026-11-26",
-      "destination": "CPH",
+      "departure": "2027-01-24",
+      "return": "2027-01-28",
+      "destination": "ATH",
       "calendar_days": 5,
-      "price_usd": 1008.0,
-      "carriers": [
-        "Delta",
-        "KLM"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CPH%202026-11-22%202026-11-26"
-    },
-    {
-      "departure": "2027-01-13",
-      "return": "2027-01-15",
-      "destination": "BCN",
-      "calendar_days": 3,
       "price_usd": 1101.0,
       "carriers": [
         "Turkish Airlines"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BCN%202027-01-13%202027-01-15"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ATH%202027-01-24%202027-01-28"
     },
     {
-      "departure": "2026-12-08",
-      "return": "2026-12-12",
-      "destination": "CDG",
-      "calendar_days": 5,
-      "price_usd": 1166.0,
+      "departure": "2026-12-10",
+      "return": "2026-12-15",
+      "destination": "KEF",
+      "calendar_days": 6,
+      "price_usd": 1130.0,
       "carriers": [
-        "WestJet"
+        "British Airways"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CDG%202026-12-08%202026-12-12"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20KEF%202026-12-10%202026-12-15"
     },
     {
-      "departure": "2026-12-08",
-      "return": "2026-12-12",
-      "destination": "CDG",
+      "departure": "2027-01-06",
+      "return": "2027-01-08",
+      "destination": "ZRH",
+      "calendar_days": 3,
+      "price_usd": 1131.0,
+      "carriers": [
+        "Turkish Airlines"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ZRH%202027-01-06%202027-01-08"
+    },
+    {
+      "departure": "2026-12-28",
+      "return": "2027-01-04",
+      "destination": "FRA",
+      "calendar_days": 8,
+      "price_usd": 1155.0,
+      "carriers": [
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FRA%202026-12-28%202027-01-04"
+    },
+    {
+      "departure": "2026-12-28",
+      "return": "2027-01-04",
+      "destination": "FRA",
+      "calendar_days": 8,
+      "price_usd": 1162.0,
+      "carriers": [
+        "British Airways"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FRA%202026-12-28%202027-01-04"
+    },
+    {
+      "departure": "2026-12-28",
+      "return": "2027-01-04",
+      "destination": "FRA",
+      "calendar_days": 8,
+      "price_usd": 1179.0,
+      "carriers": [
+        "Lufthansa"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FRA%202026-12-28%202027-01-04"
+    },
+    {
+      "departure": "2027-01-24",
+      "return": "2027-01-28",
+      "destination": "ATH",
       "calendar_days": 5,
+      "price_usd": 1185.0,
+      "carriers": [
+        "Aegean",
+        "Turkish Airlines"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ATH%202027-01-24%202027-01-28"
+    },
+    {
+      "departure": "2026-12-28",
+      "return": "2027-01-04",
+      "destination": "FRA",
+      "calendar_days": 8,
       "price_usd": 1187.0,
       "carriers": [
-        "Turkish Airlines"
+        "Air Canada"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CDG%202026-12-08%202026-12-12"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FRA%202026-12-28%202027-01-04"
     },
     {
-      "departure": "2027-01-13",
-      "return": "2027-01-15",
-      "destination": "BCN",
-      "calendar_days": 3,
-      "price_usd": 1308.0,
+      "departure": "2027-01-24",
+      "return": "2027-01-28",
+      "destination": "ATH",
+      "calendar_days": 5,
+      "price_usd": 1201.0,
+      "carriers": [
+        "Delta",
+        "KLM"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ATH%202027-01-24%202027-01-28"
+    },
+    {
+      "departure": "2027-01-24",
+      "return": "2027-01-28",
+      "destination": "ATH",
+      "calendar_days": 5,
+      "price_usd": 1209.0,
+      "carriers": [
+        "Lufthansa",
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ATH%202027-01-24%202027-01-28"
+    },
+    {
+      "departure": "2027-01-24",
+      "return": "2027-01-28",
+      "destination": "ATH",
+      "calendar_days": 5,
+      "price_usd": 1215.0,
+      "carriers": [
+        "British Airways"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ATH%202027-01-24%202027-01-28"
+    },
+    {
+      "departure": "2026-12-28",
+      "return": "2027-01-04",
+      "destination": "FRA",
+      "calendar_days": 8,
+      "price_usd": 1296.0,
       "carriers": [
         "United"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BCN%202027-01-13%202027-01-15"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FRA%202026-12-28%202027-01-04"
     },
     {
-      "departure": "2026-12-08",
-      "return": "2026-12-12",
-      "destination": "CDG",
-      "calendar_days": 5,
-      "price_usd": 1319.0,
-      "carriers": [
-        "Air France"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CDG%202026-12-08%202026-12-12"
-    },
-    {
-      "departure": "2026-12-08",
-      "return": "2026-12-12",
-      "destination": "CDG",
-      "calendar_days": 5,
-      "price_usd": 1324.0,
-      "carriers": [
-        "Delta"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CDG%202026-12-08%202026-12-12"
-    },
-    {
-      "departure": "2026-12-08",
-      "return": "2026-12-12",
-      "destination": "CDG",
-      "calendar_days": 5,
-      "price_usd": 1324.0,
-      "carriers": [
-        "Delta"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CDG%202026-12-08%202026-12-12"
-    },
-    {
-      "departure": "2026-12-08",
-      "return": "2026-12-12",
-      "destination": "CDG",
-      "calendar_days": 5,
-      "price_usd": 1324.0,
-      "carriers": [
-        "Delta"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CDG%202026-12-08%202026-12-12"
-    },
-    {
-      "departure": "2027-01-13",
-      "return": "2027-01-15",
-      "destination": "BCN",
+      "departure": "2027-01-06",
+      "return": "2027-01-08",
+      "destination": "ZRH",
       "calendar_days": 3,
-      "price_usd": 1328.0,
+      "price_usd": 1375.0,
       "carriers": [
         "Air Canada",
-        "United"
+        "SWISS"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BCN%202027-01-13%202027-01-15"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ZRH%202027-01-06%202027-01-08"
     },
     {
-      "departure": "2026-12-08",
-      "return": "2026-12-12",
-      "destination": "CDG",
-      "calendar_days": 5,
-      "price_usd": 1330.0,
-      "carriers": [
-        "British Airways"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20CDG%202026-12-08%202026-12-12"
-    },
-    {
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "destination": "LIS",
-      "calendar_days": 4,
-      "price_usd": 1411.0,
-      "carriers": [
-        "Alaska",
-        "British Airways"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "departure": "2026-12-26",
-      "return": "2027-01-01",
-      "destination": "FCO",
-      "calendar_days": 7,
-      "price_usd": 1414.0,
-      "carriers": [
-        "Turkish Airlines"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FCO%202026-12-26%202027-01-01"
-    },
-    {
-      "departure": "2027-01-13",
-      "return": "2027-01-15",
-      "destination": "BCN",
+      "departure": "2027-01-06",
+      "return": "2027-01-08",
+      "destination": "ZRH",
       "calendar_days": 3,
-      "price_usd": 1484.0,
-      "carriers": [
-        "Alaska",
-        "British Airways"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BCN%202027-01-13%202027-01-15"
-    },
-    {
-      "departure": "2027-01-13",
-      "return": "2027-01-15",
-      "destination": "BCN",
-      "calendar_days": 3,
-      "price_usd": 1582.0,
+      "price_usd": 1378.0,
       "carriers": [
         "Air France",
         "Delta"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BCN%202027-01-13%202027-01-15"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ZRH%202027-01-06%202027-01-08"
     },
     {
-      "departure": "2027-01-13",
-      "return": "2027-01-15",
-      "destination": "BCN",
+      "departure": "2027-01-06",
+      "return": "2027-01-08",
+      "destination": "ZRH",
       "calendar_days": 3,
-      "price_usd": 1583.0,
-      "carriers": [
-        "Delta"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BCN%202027-01-13%202027-01-15"
-    },
-    {
-      "departure": "2027-01-13",
-      "return": "2027-01-15",
-      "destination": "BCN",
-      "calendar_days": 3,
-      "price_usd": 1586.0,
-      "carriers": [
-        "Delta",
-        "KLM"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BCN%202027-01-13%202027-01-15"
-    },
-    {
-      "departure": "2027-01-13",
-      "return": "2027-01-15",
-      "destination": "BCN",
-      "calendar_days": 3,
-      "price_usd": 1590.0,
-      "carriers": [
-        "Alaska",
-        "American"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BCN%202027-01-13%202027-01-15"
-    },
-    {
-      "departure": "2026-12-17",
-      "return": "2026-12-22",
-      "destination": "AMS",
-      "calendar_days": 6,
-      "price_usd": 1612.0,
-      "carriers": [
-        "Delta"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20AMS%202026-12-17%202026-12-22"
-    },
-    {
-      "departure": "2026-12-17",
-      "return": "2026-12-22",
-      "destination": "AMS",
-      "calendar_days": 6,
-      "price_usd": 1617.0,
-      "carriers": [
-        "Delta"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20AMS%202026-12-17%202026-12-22"
-    },
-    {
-      "departure": "2026-12-17",
-      "return": "2026-12-22",
-      "destination": "AMS",
-      "calendar_days": 6,
-      "price_usd": 1617.0,
-      "carriers": [
-        "Delta"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20AMS%202026-12-17%202026-12-22"
-    },
-    {
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "destination": "LIS",
-      "calendar_days": 4,
-      "price_usd": 1641.0,
-      "carriers": [
-        "Tap Air Portugal",
-        "United"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "departure": "2027-01-13",
-      "return": "2027-01-15",
-      "destination": "BCN",
-      "calendar_days": 3,
-      "price_usd": 1647.0,
-      "carriers": [
-        "British Airways"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BCN%202027-01-13%202027-01-15"
-    },
-    {
-      "departure": "2026-12-17",
-      "return": "2026-12-22",
-      "destination": "AMS",
-      "calendar_days": 6,
-      "price_usd": 1717.0,
-      "carriers": [
-        "Delta"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20AMS%202026-12-17%202026-12-22"
-    },
-    {
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "destination": "MAD",
-      "calendar_days": 8,
-      "price_usd": 1897.0,
-      "carriers": [
-        "American",
-        "Iberia"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "departure": "2026-12-26",
-      "return": "2027-01-01",
-      "destination": "FCO",
-      "calendar_days": 7,
-      "price_usd": 2120.0,
-      "carriers": [
-        "Alaska",
-        "ITA"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FCO%202026-12-26%202027-01-01"
-    },
-    {
-      "departure": "2026-12-26",
-      "return": "2027-01-01",
-      "destination": "FCO",
-      "calendar_days": 7,
-      "price_usd": 2323.0,
+      "price_usd": 1380.0,
       "carriers": [
         "United"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FCO%202026-12-26%202027-01-01"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ZRH%202027-01-06%202027-01-08"
     },
     {
-      "departure": "2026-12-26",
-      "return": "2027-01-01",
-      "destination": "FCO",
-      "calendar_days": 7,
-      "price_usd": 2336.0,
+      "departure": "2027-01-06",
+      "return": "2027-01-08",
+      "destination": "ZRH",
+      "calendar_days": 3,
+      "price_usd": 1382.0,
       "carriers": [
         "Lufthansa"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FCO%202026-12-26%202027-01-01"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ZRH%202027-01-06%202027-01-08"
     },
     {
-      "departure": "2026-12-26",
-      "return": "2027-01-01",
-      "destination": "FCO",
-      "calendar_days": 7,
-      "price_usd": 2455.0,
-      "carriers": [
-        "British Airways"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FCO%202026-12-26%202027-01-01"
-    },
-    {
-      "departure": "2026-12-26",
-      "return": "2027-01-01",
-      "destination": "FCO",
-      "calendar_days": 7,
-      "price_usd": 2472.0,
+      "departure": "2027-01-06",
+      "return": "2027-01-08",
+      "destination": "ZRH",
+      "calendar_days": 3,
+      "price_usd": 1383.0,
       "carriers": [
         "Delta",
         "KLM"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FCO%202026-12-26%202027-01-01"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ZRH%202027-01-06%202027-01-08"
     },
     {
-      "departure": "2026-12-26",
-      "return": "2027-01-01",
-      "destination": "FCO",
-      "calendar_days": 7,
-      "price_usd": 2479.0,
+      "departure": "2027-01-06",
+      "return": "2027-01-08",
+      "destination": "ZRH",
+      "calendar_days": 3,
+      "price_usd": 1394.0,
+      "carriers": [
+        "Lufthansa"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ZRH%202027-01-06%202027-01-08"
+    },
+    {
+      "departure": "2027-01-24",
+      "return": "2027-01-28",
+      "destination": "ATH",
+      "calendar_days": 5,
+      "price_usd": 1394.0,
+      "carriers": [
+        "Aegean",
+        "Lufthansa"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ATH%202027-01-24%202027-01-28"
+    },
+    {
+      "departure": "2027-01-06",
+      "return": "2027-01-08",
+      "destination": "ZRH",
+      "calendar_days": 3,
+      "price_usd": 1395.0,
+      "carriers": [
+        "Air Dolomiti",
+        "Lufthansa"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ZRH%202027-01-06%202027-01-08"
+    },
+    {
+      "departure": "2027-01-15",
+      "return": "2027-01-18",
+      "destination": "IST",
+      "calendar_days": 4,
+      "price_usd": 1395.0,
+      "carriers": [
+        "Turkish Airlines",
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20IST%202027-01-15%202027-01-18"
+    },
+    {
+      "departure": "2026-11-24",
+      "return": "2026-11-29",
+      "destination": "NRT",
+      "calendar_days": 6,
+      "price_usd": 1396.0,
+      "carriers": [
+        "Hainan"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20NRT%202026-11-24%202026-11-29"
+    },
+    {
+      "departure": "2026-11-24",
+      "return": "2026-11-29",
+      "destination": "NRT",
+      "calendar_days": 6,
+      "price_usd": 1425.0,
+      "carriers": [
+        "China Airlines"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20NRT%202026-11-24%202026-11-29"
+    },
+    {
+      "departure": "2026-11-24",
+      "return": "2026-11-29",
+      "destination": "NRT",
+      "calendar_days": 6,
+      "price_usd": 1456.0,
+      "carriers": [
+        "EVA Air"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20NRT%202026-11-24%202026-11-29"
+    },
+    {
+      "departure": "2026-11-24",
+      "return": "2026-11-29",
+      "destination": "NRT",
+      "calendar_days": 6,
+      "price_usd": 1567.0,
+      "carriers": [
+        "Asiana Airlines",
+        "Korean Air"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20NRT%202026-11-24%202026-11-29"
+    },
+    {
+      "departure": "2026-12-28",
+      "return": "2027-01-04",
+      "destination": "FRA",
+      "calendar_days": 8,
+      "price_usd": 1570.0,
+      "carriers": [
+        "Condor"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FRA%202026-12-28%202027-01-04"
+    },
+    {
+      "departure": "2026-11-24",
+      "return": "2026-11-29",
+      "destination": "NRT",
+      "calendar_days": 6,
+      "price_usd": 1621.0,
+      "carriers": [
+        "Korean Air"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20NRT%202026-11-24%202026-11-29"
+    },
+    {
+      "departure": "2026-11-24",
+      "return": "2026-11-29",
+      "destination": "NRT",
+      "calendar_days": 6,
+      "price_usd": 1621.0,
+      "carriers": [
+        "Delta",
+        "Korean Air"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20NRT%202026-11-24%202026-11-29"
+    },
+    {
+      "departure": "2026-12-28",
+      "return": "2027-01-04",
+      "destination": "FRA",
+      "calendar_days": 8,
+      "price_usd": 1652.0,
+      "carriers": [
+        "Lufthansa",
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FRA%202026-12-28%202027-01-04"
+    },
+    {
+      "departure": "2026-11-24",
+      "return": "2026-11-29",
+      "destination": "NRT",
+      "calendar_days": 6,
+      "price_usd": 1738.0,
+      "carriers": [
+        "Alaska",
+        "JAL"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20NRT%202026-11-24%202026-11-29"
+    },
+    {
+      "departure": "2026-11-24",
+      "return": "2026-11-29",
+      "destination": "NRT",
+      "calendar_days": 6,
+      "price_usd": 1738.0,
+      "carriers": [
+        "American",
+        "JAL"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20NRT%202026-11-24%202026-11-29"
+    },
+    {
+      "departure": "2026-11-24",
+      "return": "2026-11-29",
+      "destination": "NRT",
+      "calendar_days": 6,
+      "price_usd": 1802.0,
+      "carriers": [
+        "Air Canada"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20NRT%202026-11-24%202026-11-29"
+    },
+    {
+      "departure": "2027-01-06",
+      "return": "2027-01-08",
+      "destination": "ZRH",
+      "calendar_days": 3,
+      "price_usd": 1831.0,
       "carriers": [
         "British Airways"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FCO%202026-12-26%202027-01-01"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ZRH%202027-01-06%202027-01-08"
     },
     {
-      "departure": "2026-12-26",
-      "return": "2027-01-01",
-      "destination": "FCO",
-      "calendar_days": 7,
-      "price_usd": 2691.0,
+      "departure": "2026-12-28",
+      "return": "2027-01-04",
+      "destination": "FRA",
+      "calendar_days": 8,
+      "price_usd": 1849.0,
       "carriers": [
-        "Air France"
+        "Air Canada",
+        "Lufthansa"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FCO%202026-12-26%202027-01-01"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FRA%202026-12-28%202027-01-04"
     },
     {
-      "departure": "2026-12-26",
-      "return": "2027-01-01",
-      "destination": "FCO",
-      "calendar_days": 7,
-      "price_usd": 2693.0,
+      "departure": "2026-11-24",
+      "return": "2026-11-29",
+      "destination": "NRT",
+      "calendar_days": 6,
+      "price_usd": 1879.0,
       "carriers": [
-        "Delta"
+        "JAL"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FCO%202026-12-26%202027-01-01"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20NRT%202026-11-24%202026-11-29"
     },
     {
-      "departure": "2026-12-26",
-      "return": "2027-01-01",
-      "destination": "FCO",
-      "calendar_days": 7,
-      "price_usd": 2693.0,
+      "departure": "2026-11-24",
+      "return": "2026-11-29",
+      "destination": "NRT",
+      "calendar_days": 6,
+      "price_usd": 1936.0,
       "carriers": [
-        "Delta"
+        "Alaska"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20FCO%202026-12-26%202027-01-01"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20NRT%202026-11-24%202026-11-29"
     }
   ],
   "history": [
@@ -955,6 +895,11 @@
       "date": "2026-11-02",
       "lowest_usd": 616.0,
       "destination": "CPH"
+    },
+    {
+      "date": "2026-11-03",
+      "lowest_usd": 656.0,
+      "destination": "KEF"
     }
   ],
   "lowest_by_destination": {
@@ -962,7 +907,7 @@
     "DUB": 733.0,
     "ZRH": 827.0,
     "FRA": 563.0,
-    "IST": 925.0,
+    "IST": 912.0,
     "ATH": 841.0,
     "NRT": 800.0,
     "TPE": 774.0,
@@ -1003,156 +948,12 @@
   },
   "alerts": [
     {
-      "destination": "MAD",
-      "previous_usd": 934.0,
-      "current_usd": 792.0,
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "destination": "MAD",
-      "previous_usd": 934.0,
-      "current_usd": 803.0,
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "destination": "MAD",
-      "previous_usd": 934.0,
-      "current_usd": 816.0,
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "destination": "MAD",
-      "previous_usd": 934.0,
-      "current_usd": 832.0,
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "destination": "LIS",
-      "previous_usd": 1120.0,
-      "current_usd": 842.0,
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "destination": "LIS",
-      "previous_usd": 1120.0,
-      "current_usd": 843.0,
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "destination": "LIS",
-      "previous_usd": 1120.0,
-      "current_usd": 846.0,
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "destination": "MAD",
-      "previous_usd": 934.0,
-      "current_usd": 852.0,
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "destination": "MAD",
-      "previous_usd": 934.0,
-      "current_usd": 856.0,
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "destination": "MAD",
-      "previous_usd": 934.0,
-      "current_usd": 878.0,
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "destination": "MAD",
-      "previous_usd": 934.0,
-      "current_usd": 883.0,
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "destination": "LIS",
-      "previous_usd": 1120.0,
-      "current_usd": 893.0,
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "destination": "MAD",
-      "previous_usd": 934.0,
-      "current_usd": 901.0,
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "destination": "LIS",
-      "previous_usd": 1120.0,
-      "current_usd": 901.0,
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "destination": "LIS",
-      "previous_usd": 1120.0,
-      "current_usd": 902.0,
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "destination": "LIS",
-      "previous_usd": 1120.0,
-      "current_usd": 904.0,
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "destination": "MAD",
-      "previous_usd": 934.0,
-      "current_usd": 929.0,
-      "departure": "2027-01-04",
-      "return": "2027-01-11",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MAD%202027-01-04%202027-01-11"
-    },
-    {
-      "destination": "LIS",
-      "previous_usd": 1120.0,
-      "current_usd": 957.0,
-      "departure": "2027-01-22",
-      "return": "2027-01-25",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIS%202027-01-22%202027-01-25"
-    },
-    {
-      "destination": "BCN",
-      "previous_usd": 1240.0,
-      "current_usd": 1101.0,
-      "departure": "2027-01-13",
-      "return": "2027-01-15",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BCN%202027-01-13%202027-01-15"
+      "destination": "IST",
+      "previous_usd": 925.0,
+      "current_usd": 912.0,
+      "departure": "2027-01-15",
+      "return": "2027-01-18",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20IST%202027-01-15%202027-01-18"
     }
   ],
   "note": "Seven rotating destinations checked daily. Google Flights fares are indicative. Verify complete round-trip totals before booking. Other destinations were not checked today."
