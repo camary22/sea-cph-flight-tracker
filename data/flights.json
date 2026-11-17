@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T23:40:17.270032+00:00",
+  "updated_at": "2026-11-17T22:48:22.989324+00:00",
   "provider": "SerpApi Google Flights",
   "environment": "production",
   "departure": "SEA",
@@ -7,851 +7,1070 @@
   "trip_type": "round-trip",
   "budget_usd": null,
   "searched_destinations": [
-    "HND",
-    "ICN",
-    "TPE",
-    "BKK",
-    "SIN",
-    "MNL",
-    "SYD"
+    "AKL",
+    "DXB",
+    "DEL",
+    "LIM",
+    "BOG",
+    "SJO",
+    "GUA"
   ],
   "requests_attempted": 7,
   "errors_count": 0,
   "offers": [
     {
-      "departure": "2027-01-23",
-      "return": "2027-01-25",
-      "destination": "TPE",
-      "calendar_days": 3,
-      "price_usd": 787.0,
-      "carriers": [
-        "Delta"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20TPE%202027-01-23%202027-01-25"
-    },
-    {
-      "departure": "2027-01-23",
-      "return": "2027-01-25",
-      "destination": "TPE",
-      "calendar_days": 3,
-      "price_usd": 865.0,
-      "carriers": [
-        "STARLUX Airlines"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20TPE%202027-01-23%202027-01-25"
-    },
-    {
-      "departure": "2027-01-23",
-      "return": "2027-01-25",
-      "destination": "TPE",
-      "calendar_days": 3,
-      "price_usd": 872.0,
-      "carriers": [
-        "Korean Air"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20TPE%202027-01-23%202027-01-25"
-    },
-    {
-      "departure": "2027-01-23",
-      "return": "2027-01-25",
-      "destination": "TPE",
-      "calendar_days": 3,
-      "price_usd": 922.0,
-      "carriers": [
-        "EVA Air"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20TPE%202027-01-23%202027-01-25"
-    },
-    {
-      "departure": "2026-12-02",
-      "return": "2026-12-06",
-      "destination": "SIN",
-      "calendar_days": 5,
-      "price_usd": 926.0,
+      "departure": "2026-12-04",
+      "return": "2026-12-09",
+      "destination": "BOG",
+      "calendar_days": 6,
+      "price_usd": 763.0,
       "carriers": [
         "United"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SIN%202026-12-02%202026-12-06"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BOG%202026-12-04%202026-12-09"
     },
     {
-      "departure": "2026-12-02",
-      "return": "2026-12-06",
-      "destination": "SIN",
-      "calendar_days": 5,
-      "price_usd": 930.0,
-      "carriers": [
-        "ANA"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SIN%202026-12-02%202026-12-06"
-    },
-    {
-      "departure": "2027-02-01",
-      "return": "2027-02-04",
-      "destination": "BKK",
-      "calendar_days": 4,
-      "price_usd": 940.0,
-      "carriers": [
-        "JAL"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BKK%202027-02-01%202027-02-04"
-    },
-    {
-      "departure": "2027-01-23",
-      "return": "2027-01-25",
-      "destination": "TPE",
-      "calendar_days": 3,
-      "price_usd": 970.0,
-      "carriers": [
-        "EVA Air"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20TPE%202027-01-23%202027-01-25"
-    },
-    {
-      "departure": "2027-01-23",
-      "return": "2027-01-25",
-      "destination": "TPE",
-      "calendar_days": 3,
-      "price_usd": 987.0,
+      "departure": "2026-12-13",
+      "return": "2026-12-19",
+      "destination": "SJO",
+      "calendar_days": 7,
+      "price_usd": 803.0,
       "carriers": [
         "United"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20TPE%202027-01-23%202027-01-25"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SJO%202026-12-13%202026-12-19"
     },
     {
-      "departure": "2027-01-14",
-      "return": "2027-01-21",
-      "destination": "ICN",
-      "calendar_days": 8,
-      "price_usd": 1026.0,
+      "departure": "2026-12-13",
+      "return": "2026-12-19",
+      "destination": "SJO",
+      "calendar_days": 7,
+      "price_usd": 845.0,
+      "carriers": [
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SJO%202026-12-13%202026-12-19"
+    },
+    {
+      "departure": "2026-12-04",
+      "return": "2026-12-09",
+      "destination": "BOG",
+      "calendar_days": 6,
+      "price_usd": 869.0,
+      "carriers": [
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BOG%202026-12-04%202026-12-09"
+    },
+    {
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "destination": "LIM",
+      "calendar_days": 5,
+      "price_usd": 879.0,
       "carriers": [
         "Air Canada"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ICN%202027-01-14%202027-01-21"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
     },
     {
-      "departure": "2027-01-23",
-      "return": "2027-01-25",
-      "destination": "TPE",
-      "calendar_days": 3,
-      "price_usd": 1044.0,
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "destination": "LIM",
+      "calendar_days": 5,
+      "price_usd": 879.0,
       "carriers": [
-        "Alaska",
-        "EVA Air"
+        "Air Canada"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20TPE%202027-01-23%202027-01-25"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
     },
     {
-      "departure": "2027-02-01",
-      "return": "2027-02-04",
-      "destination": "BKK",
-      "calendar_days": 4,
-      "price_usd": 1048.0,
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "destination": "LIM",
+      "calendar_days": 5,
+      "price_usd": 879.0,
+      "carriers": [
+        "Air Canada"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
+    },
+    {
+      "departure": "2026-12-04",
+      "return": "2026-12-09",
+      "destination": "BOG",
+      "calendar_days": 6,
+      "price_usd": 896.0,
+      "carriers": [
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BOG%202026-12-04%202026-12-09"
+    },
+    {
+      "departure": "2026-12-04",
+      "return": "2026-12-09",
+      "destination": "BOG",
+      "calendar_days": 6,
+      "price_usd": 899.0,
+      "carriers": [
+        "Alaska",
+        "Avianca"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BOG%202026-12-04%202026-12-09"
+    },
+    {
+      "departure": "2026-12-04",
+      "return": "2026-12-09",
+      "destination": "BOG",
+      "calendar_days": 6,
+      "price_usd": 900.0,
+      "carriers": [
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BOG%202026-12-04%202026-12-09"
+    },
+    {
+      "departure": "2026-12-13",
+      "return": "2026-12-19",
+      "destination": "SJO",
+      "calendar_days": 7,
+      "price_usd": 900.0,
+      "carriers": [
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SJO%202026-12-13%202026-12-19"
+    },
+    {
+      "departure": "2026-12-13",
+      "return": "2026-12-19",
+      "destination": "SJO",
+      "calendar_days": 7,
+      "price_usd": 903.0,
+      "carriers": [
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SJO%202026-12-13%202026-12-19"
+    },
+    {
+      "departure": "2026-12-04",
+      "return": "2026-12-09",
+      "destination": "BOG",
+      "calendar_days": 6,
+      "price_usd": 904.0,
+      "carriers": [
+        "Alaska",
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BOG%202026-12-04%202026-12-09"
+    },
+    {
+      "departure": "2027-01-16",
+      "return": "2027-01-18",
+      "destination": "DXB",
+      "calendar_days": 3,
+      "price_usd": 909.0,
       "carriers": [
         "Turkish Airlines"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BKK%202027-02-01%202027-02-04"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DXB%202027-01-16%202027-01-18"
     },
     {
-      "departure": "2027-01-23",
-      "return": "2027-01-25",
-      "destination": "TPE",
-      "calendar_days": 3,
-      "price_usd": 1054.0,
+      "departure": "2026-12-04",
+      "return": "2026-12-09",
+      "destination": "BOG",
+      "calendar_days": 6,
+      "price_usd": 912.0,
       "carriers": [
-        "Alaska",
-        "EVA Air"
+        "COPA",
+        "United"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20TPE%202027-01-23%202027-01-25"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BOG%202026-12-04%202026-12-09"
     },
     {
-      "departure": "2027-02-01",
-      "return": "2027-02-04",
-      "destination": "BKK",
-      "calendar_days": 4,
-      "price_usd": 1064.0,
+      "departure": "2026-12-13",
+      "return": "2026-12-19",
+      "destination": "SJO",
+      "calendar_days": 7,
+      "price_usd": 912.0,
       "carriers": [
-        "Delta",
-        "Korean Air"
+        "Southwest"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BKK%202027-02-01%202027-02-04"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SJO%202026-12-13%202026-12-19"
     },
     {
-      "departure": "2027-02-01",
-      "return": "2027-02-04",
-      "destination": "BKK",
-      "calendar_days": 4,
-      "price_usd": 1068.0,
-      "carriers": [
-        "Korean Air"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BKK%202027-02-01%202027-02-04"
-    },
-    {
-      "departure": "2027-02-01",
-      "return": "2027-02-04",
-      "destination": "BKK",
-      "calendar_days": 4,
-      "price_usd": 1074.0,
-      "carriers": [
-        "Philippine Airlines"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BKK%202027-02-01%202027-02-04"
-    },
-    {
-      "departure": "2027-02-01",
-      "return": "2027-02-04",
-      "destination": "BKK",
-      "calendar_days": 4,
-      "price_usd": 1083.0,
-      "carriers": [
-        "China Airlines"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BKK%202027-02-01%202027-02-04"
-    },
-    {
-      "departure": "2027-01-14",
-      "return": "2027-01-21",
-      "destination": "ICN",
-      "calendar_days": 8,
-      "price_usd": 1094.0,
-      "carriers": [
-        "Alaska"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ICN%202027-01-14%202027-01-21"
-    },
-    {
-      "departure": "2027-01-14",
-      "return": "2027-01-21",
-      "destination": "ICN",
-      "calendar_days": 8,
-      "price_usd": 1094.0,
+      "departure": "2026-12-04",
+      "return": "2026-12-09",
+      "destination": "BOG",
+      "calendar_days": 6,
+      "price_usd": 922.0,
       "carriers": [
         "Delta"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ICN%202027-01-14%202027-01-21"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BOG%202026-12-04%202026-12-09"
     },
     {
-      "departure": "2027-01-14",
-      "return": "2027-01-21",
-      "destination": "ICN",
-      "calendar_days": 8,
-      "price_usd": 1096.0,
+      "departure": "2026-12-04",
+      "return": "2026-12-09",
+      "destination": "BOG",
+      "calendar_days": 6,
+      "price_usd": 922.0,
       "carriers": [
-        "Korean Air"
+        "Delta"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ICN%202027-01-14%202027-01-21"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BOG%202026-12-04%202026-12-09"
     },
     {
-      "departure": "2027-01-14",
-      "return": "2027-01-21",
-      "destination": "ICN",
+      "departure": "2026-12-22",
+      "return": "2026-12-29",
+      "destination": "GUA",
       "calendar_days": 8,
-      "price_usd": 1096.0,
-      "carriers": [
-        "Korean Air"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ICN%202027-01-14%202027-01-21"
-    },
-    {
-      "departure": "2027-01-14",
-      "return": "2027-01-21",
-      "destination": "ICN",
-      "calendar_days": 8,
-      "price_usd": 1109.0,
+      "price_usd": 931.0,
       "carriers": [
         "United"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20ICN%202027-01-14%202027-01-21"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20GUA%202026-12-22%202026-12-29"
     },
     {
-      "departure": "2027-02-01",
-      "return": "2027-02-04",
-      "destination": "BKK",
-      "calendar_days": 4,
-      "price_usd": 1137.0,
+      "departure": "2026-12-13",
+      "return": "2026-12-19",
+      "destination": "SJO",
+      "calendar_days": 7,
+      "price_usd": 940.0,
       "carriers": [
-        "Korean Air"
+        "United"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BKK%202027-02-01%202027-02-04"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SJO%202026-12-13%202026-12-19"
     },
     {
-      "departure": "2027-02-01",
-      "return": "2027-02-04",
-      "destination": "BKK",
+      "departure": "2026-12-13",
+      "return": "2026-12-19",
+      "destination": "SJO",
+      "calendar_days": 7,
+      "price_usd": 944.0,
+      "carriers": [
+        "Avianca",
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SJO%202026-12-13%202026-12-19"
+    },
+    {
+      "departure": "2026-12-13",
+      "return": "2026-12-19",
+      "destination": "SJO",
+      "calendar_days": 7,
+      "price_usd": 961.0,
+      "carriers": [
+        "Alaska",
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SJO%202026-12-13%202026-12-19"
+    },
+    {
+      "departure": "2027-01-16",
+      "return": "2027-01-18",
+      "destination": "DXB",
+      "calendar_days": 3,
+      "price_usd": 970.0,
+      "carriers": [
+        "Qatar Airways"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DXB%202027-01-16%202027-01-18"
+    },
+    {
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "destination": "LIM",
+      "calendar_days": 5,
+      "price_usd": 974.0,
+      "carriers": [
+        "Aeromexico"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
+    },
+    {
+      "departure": "2026-12-04",
+      "return": "2026-12-09",
+      "destination": "BOG",
+      "calendar_days": 6,
+      "price_usd": 980.0,
+      "carriers": [
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BOG%202026-12-04%202026-12-09"
+    },
+    {
+      "departure": "2027-01-16",
+      "return": "2027-01-18",
+      "destination": "DXB",
+      "calendar_days": 3,
+      "price_usd": 993.0,
+      "carriers": [
+        "Qatar Airways"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DXB%202027-01-16%202027-01-18"
+    },
+    {
+      "departure": "2027-01-16",
+      "return": "2027-01-18",
+      "destination": "DXB",
+      "calendar_days": 3,
+      "price_usd": 1003.0,
+      "carriers": [
+        "Alaska",
+        "Qatar Airways"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DXB%202027-01-16%202027-01-18"
+    },
+    {
+      "departure": "2026-12-22",
+      "return": "2026-12-29",
+      "destination": "GUA",
+      "calendar_days": 8,
+      "price_usd": 1009.0,
+      "carriers": [
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20GUA%202026-12-22%202026-12-29"
+    },
+    {
+      "departure": "2027-01-16",
+      "return": "2027-01-18",
+      "destination": "DXB",
+      "calendar_days": 3,
+      "price_usd": 1019.0,
+      "carriers": [
+        "Air Canada",
+        "Emirates"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DXB%202027-01-16%202027-01-18"
+    },
+    {
+      "departure": "2026-12-13",
+      "return": "2026-12-19",
+      "destination": "SJO",
+      "calendar_days": 7,
+      "price_usd": 1031.0,
+      "carriers": [
+        "Delta"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SJO%202026-12-13%202026-12-19"
+    },
+    {
+      "departure": "2027-01-16",
+      "return": "2027-01-18",
+      "destination": "DXB",
+      "calendar_days": 3,
+      "price_usd": 1033.0,
+      "carriers": [
+        "Air Canada",
+        "Emirates"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DXB%202027-01-16%202027-01-18"
+    },
+    {
+      "departure": "2026-12-22",
+      "return": "2026-12-29",
+      "destination": "GUA",
+      "calendar_days": 8,
+      "price_usd": 1051.0,
+      "carriers": [
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20GUA%202026-12-22%202026-12-29"
+    },
+    {
+      "departure": "2026-12-22",
+      "return": "2026-12-29",
+      "destination": "GUA",
+      "calendar_days": 8,
+      "price_usd": 1069.0,
+      "carriers": [
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20GUA%202026-12-22%202026-12-29"
+    },
+    {
+      "departure": "2026-12-13",
+      "return": "2026-12-19",
+      "destination": "SJO",
+      "calendar_days": 7,
+      "price_usd": 1079.0,
+      "carriers": [
+        "Alaska"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SJO%202026-12-13%202026-12-19"
+    },
+    {
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "destination": "DEL",
       "calendar_days": 4,
+      "price_usd": 1093.0,
+      "carriers": [
+        "Alaska",
+        "Finnair"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
+    },
+    {
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "destination": "DEL",
+      "calendar_days": 4,
+      "price_usd": 1119.0,
+      "carriers": [
+        "Emirates"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
+    },
+    {
+      "departure": "2026-12-13",
+      "return": "2026-12-19",
+      "destination": "SJO",
+      "calendar_days": 7,
+      "price_usd": 1138.0,
+      "carriers": [
+        "Delta"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SJO%202026-12-13%202026-12-19"
+    },
+    {
+      "departure": "2027-01-16",
+      "return": "2027-01-18",
+      "destination": "DXB",
+      "calendar_days": 3,
       "price_usd": 1148.0,
       "carriers": [
-        "Asiana Airlines",
-        "Korean Air"
+        "Air Canada",
+        "Emirates"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BKK%202027-02-01%202027-02-04"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DXB%202027-01-16%202027-01-18"
     },
     {
-      "departure": "2026-12-02",
-      "return": "2026-12-06",
-      "destination": "SIN",
-      "calendar_days": 5,
-      "price_usd": 1180.0,
-      "carriers": [
-        "Philippine Airlines"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SIN%202026-12-02%202026-12-06"
-    },
-    {
-      "departure": "2027-02-01",
-      "return": "2027-02-04",
-      "destination": "BKK",
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "destination": "DEL",
       "calendar_days": 4,
-      "price_usd": 1201.0,
+      "price_usd": 1157.0,
       "carriers": [
-        "EVA Air"
+        "Emirates"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BKK%202027-02-01%202027-02-04"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
     },
     {
-      "departure": "2026-12-02",
-      "return": "2026-12-06",
-      "destination": "SIN",
-      "calendar_days": 5,
-      "price_usd": 1315.0,
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "destination": "DEL",
+      "calendar_days": 4,
+      "price_usd": 1181.0,
       "carriers": [
-        "EVA Air"
+        "Qatar Airways"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SIN%202026-12-02%202026-12-06"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
     },
     {
-      "departure": "2026-12-02",
-      "return": "2026-12-06",
-      "destination": "SIN",
-      "calendar_days": 5,
-      "price_usd": 1328.0,
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "destination": "DEL",
+      "calendar_days": 4,
+      "price_usd": 1181.0,
+      "carriers": [
+        "IndiGo",
+        "Qatar Airways"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
+    },
+    {
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "destination": "DEL",
+      "calendar_days": 4,
+      "price_usd": 1197.0,
+      "carriers": [
+        "Lufthansa"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
+    },
+    {
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "destination": "DEL",
+      "calendar_days": 4,
+      "price_usd": 1222.0,
       "carriers": [
         "United"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SIN%202026-12-02%202026-12-06"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
     },
     {
-      "departure": "2026-12-02",
-      "return": "2026-12-06",
-      "destination": "SIN",
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "destination": "DEL",
+      "calendar_days": 4,
+      "price_usd": 1223.0,
+      "carriers": [
+        "Lufthansa"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
+    },
+    {
+      "departure": "2026-12-22",
+      "return": "2026-12-29",
+      "destination": "GUA",
+      "calendar_days": 8,
+      "price_usd": 1260.0,
+      "carriers": [
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20GUA%202026-12-22%202026-12-29"
+    },
+    {
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "destination": "LIM",
+      "calendar_days": 5,
+      "price_usd": 1268.0,
+      "carriers": [
+        "Alaska",
+        "Avianca"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
+    },
+    {
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "destination": "LIM",
+      "calendar_days": 5,
+      "price_usd": 1298.0,
+      "carriers": [
+        "Delta",
+        "LATAM"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
+    },
+    {
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "destination": "LIM",
+      "calendar_days": 5,
+      "price_usd": 1316.0,
+      "carriers": [
+        "Alaska",
+        "LATAM"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
+    },
+    {
+      "departure": "2026-12-04",
+      "return": "2026-12-09",
+      "destination": "BOG",
+      "calendar_days": 6,
+      "price_usd": 1319.0,
+      "carriers": [
+        "Alaska",
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BOG%202026-12-04%202026-12-09"
+    },
+    {
+      "departure": "2026-12-22",
+      "return": "2026-12-29",
+      "destination": "GUA",
+      "calendar_days": 8,
+      "price_usd": 1343.0,
+      "carriers": [
+        "Alaska",
+        "Avianca"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20GUA%202026-12-22%202026-12-29"
+    },
+    {
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "destination": "LIM",
+      "calendar_days": 5,
+      "price_usd": 1351.0,
+      "carriers": [
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
+    },
+    {
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "destination": "LIM",
       "calendar_days": 5,
       "price_usd": 1355.0,
       "carriers": [
-        "Korean Air"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SIN%202026-12-02%202026-12-06"
-    },
-    {
-      "departure": "2026-12-11",
-      "return": "2026-12-16",
-      "destination": "MNL",
-      "calendar_days": 6,
-      "price_usd": 1365.0,
-      "carriers": [
-        "Delta",
-        "Korean Air"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MNL%202026-12-11%202026-12-16"
-    },
-    {
-      "departure": "2026-12-02",
-      "return": "2026-12-06",
-      "destination": "SIN",
-      "calendar_days": 5,
-      "price_usd": 1386.0,
-      "carriers": [
-        "Alaska",
-        "Korean Air"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SIN%202026-12-02%202026-12-06"
-    },
-    {
-      "departure": "2026-12-02",
-      "return": "2026-12-06",
-      "destination": "SIN",
-      "calendar_days": 5,
-      "price_usd": 1410.0,
-      "carriers": [
-        "Philippine Airlines"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SIN%202026-12-02%202026-12-06"
-    },
-    {
-      "departure": "2026-12-02",
-      "return": "2026-12-06",
-      "destination": "SIN",
-      "calendar_days": 5,
-      "price_usd": 1538.0,
-      "carriers": [
-        "ANA",
-        "Alaska"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SIN%202026-12-02%202026-12-06"
-    },
-    {
-      "departure": "2026-12-11",
-      "return": "2026-12-16",
-      "destination": "MNL",
-      "calendar_days": 6,
-      "price_usd": 1581.0,
-      "carriers": [
-        "EVA Air"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MNL%202026-12-11%202026-12-16"
-    },
-    {
-      "departure": "2026-12-11",
-      "return": "2026-12-16",
-      "destination": "MNL",
-      "calendar_days": 6,
-      "price_usd": 1594.0,
-      "carriers": [
-        "Delta",
-        "Korean Air"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MNL%202026-12-11%202026-12-16"
-    },
-    {
-      "departure": "2027-01-05",
-      "return": "2027-01-11",
-      "destination": "HND",
-      "calendar_days": 7,
-      "price_usd": 1610.0,
-      "carriers": [
-        "Cathay Pacific",
-        "Hong Kong Express"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20HND%202027-01-05%202027-01-11"
-    },
-    {
-      "departure": "2027-01-05",
-      "return": "2027-01-11",
-      "destination": "HND",
-      "calendar_days": 7,
-      "price_usd": 1624.0,
-      "carriers": [
-        "Korean Air"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20HND%202027-01-05%202027-01-11"
-    },
-    {
-      "departure": "2027-01-05",
-      "return": "2027-01-11",
-      "destination": "HND",
-      "calendar_days": 7,
-      "price_usd": 1624.0,
-      "carriers": [
-        "Korean Air"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20HND%202027-01-05%202027-01-11"
-    },
-    {
-      "departure": "2027-01-05",
-      "return": "2027-01-11",
-      "destination": "HND",
-      "calendar_days": 7,
-      "price_usd": 1637.0,
-      "carriers": [
-        "Alaska",
         "American"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20HND%202027-01-05%202027-01-11"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
     },
     {
-      "departure": "2027-01-05",
-      "return": "2027-01-11",
-      "destination": "HND",
-      "calendar_days": 7,
-      "price_usd": 1637.0,
-      "carriers": [
-        "Alaska",
-        "American"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20HND%202027-01-05%202027-01-11"
-    },
-    {
-      "departure": "2027-01-05",
-      "return": "2027-01-11",
-      "destination": "HND",
-      "calendar_days": 7,
-      "price_usd": 1652.0,
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "destination": "LIM",
+      "calendar_days": 5,
+      "price_usd": 1359.0,
       "carriers": [
         "Delta"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20HND%202027-01-05%202027-01-11"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
     },
     {
-      "departure": "2026-12-11",
-      "return": "2026-12-16",
-      "destination": "MNL",
-      "calendar_days": 6,
-      "price_usd": 1705.0,
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "destination": "LIM",
+      "calendar_days": 5,
+      "price_usd": 1371.0,
       "carriers": [
-        "Philippine Airlines"
+        "COPA",
+        "United"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MNL%202026-12-11%202026-12-16"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
     },
     {
-      "departure": "2027-01-05",
-      "return": "2027-01-11",
-      "destination": "HND",
-      "calendar_days": 7,
-      "price_usd": 1721.0,
-      "carriers": [
-        "ANA"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20HND%202027-01-05%202027-01-11"
-    },
-    {
-      "departure": "2027-01-05",
-      "return": "2027-01-11",
-      "destination": "HND",
-      "calendar_days": 7,
-      "price_usd": 1725.0,
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "destination": "LIM",
+      "calendar_days": 5,
+      "price_usd": 1391.0,
       "carriers": [
         "United"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20HND%202027-01-05%202027-01-11"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
     },
     {
-      "departure": "2026-12-11",
-      "return": "2026-12-16",
-      "destination": "MNL",
-      "calendar_days": 6,
-      "price_usd": 1743.0,
+      "departure": "2026-12-22",
+      "return": "2026-12-29",
+      "destination": "GUA",
+      "calendar_days": 8,
+      "price_usd": 1411.0,
       "carriers": [
-        "China Airlines"
+        "Alaska"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MNL%202026-12-11%202026-12-16"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20GUA%202026-12-22%202026-12-29"
     },
     {
-      "departure": "2026-12-11",
-      "return": "2026-12-16",
-      "destination": "MNL",
-      "calendar_days": 6,
-      "price_usd": 1802.0,
-      "carriers": [
-        "United"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MNL%202026-12-11%202026-12-16"
-    },
-    {
-      "departure": "2026-12-11",
-      "return": "2026-12-16",
-      "destination": "MNL",
-      "calendar_days": 6,
-      "price_usd": 1904.0,
-      "carriers": [
-        "EVA Air"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MNL%202026-12-11%202026-12-16"
-    },
-    {
-      "departure": "2026-12-11",
-      "return": "2026-12-16",
-      "destination": "MNL",
-      "calendar_days": 6,
-      "price_usd": 1983.0,
-      "carriers": [
-        "Alaska",
-        "Philippine Airlines"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20MNL%202026-12-11%202026-12-16"
-    },
-    {
-      "departure": "2027-02-01",
-      "return": "2027-02-04",
-      "destination": "BKK",
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "destination": "DEL",
       "calendar_days": 4,
-      "price_usd": 2049.0,
+      "price_usd": 1419.0,
       "carriers": [
-        "EVA Air",
-        "THAI"
+        "Turkish Airlines"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20BKK%202027-02-01%202027-02-04"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
     },
     {
-      "departure": "2026-12-02",
-      "return": "2026-12-06",
-      "destination": "SIN",
-      "calendar_days": 5,
-      "price_usd": 2191.0,
+      "departure": "2027-01-16",
+      "return": "2027-01-18",
+      "destination": "DXB",
+      "calendar_days": 3,
+      "price_usd": 1437.0,
       "carriers": [
-        "Singapore Airlines"
+        "Emirates"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SIN%202026-12-02%202026-12-06"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DXB%202027-01-16%202027-01-18"
     },
     {
-      "departure": "2026-12-20",
-      "return": "2026-12-26",
-      "destination": "SYD",
-      "calendar_days": 7,
-      "price_usd": 2235.0,
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "destination": "DEL",
+      "calendar_days": 4,
+      "price_usd": 1501.0,
       "carriers": [
-        "Alaska"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SYD%202026-12-20%202026-12-26"
-    },
-    {
-      "departure": "2026-12-20",
-      "return": "2026-12-26",
-      "destination": "SYD",
-      "calendar_days": 7,
-      "price_usd": 2235.0,
-      "carriers": [
-        "Alaska"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SYD%202026-12-20%202026-12-26"
-    },
-    {
-      "departure": "2026-12-20",
-      "return": "2026-12-26",
-      "destination": "SYD",
-      "calendar_days": 7,
-      "price_usd": 2235.0,
-      "carriers": [
-        "Alaska"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SYD%202026-12-20%202026-12-26"
-    },
-    {
-      "departure": "2026-12-02",
-      "return": "2026-12-06",
-      "destination": "SIN",
-      "calendar_days": 5,
-      "price_usd": 2326.0,
-      "carriers": [
-        "Air Canada"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SIN%202026-12-02%202026-12-06"
-    },
-    {
-      "departure": "2026-12-20",
-      "return": "2026-12-26",
-      "destination": "SYD",
-      "calendar_days": 7,
-      "price_usd": 2330.0,
-      "carriers": [
-        "Alaska"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SYD%202026-12-20%202026-12-26"
-    },
-    {
-      "departure": "2026-12-20",
-      "return": "2026-12-26",
-      "destination": "SYD",
-      "calendar_days": 7,
-      "price_usd": 2642.0,
-      "carriers": [
-        "Air Canada",
-        "Air New Zealand"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SYD%202026-12-20%202026-12-26"
-    },
-    {
-      "departure": "2026-12-20",
-      "return": "2026-12-26",
-      "destination": "SYD",
-      "calendar_days": 7,
-      "price_usd": 3046.0,
-      "carriers": [
-        "Air Canada"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SYD%202026-12-20%202026-12-26"
-    },
-    {
-      "departure": "2026-12-20",
-      "return": "2026-12-26",
-      "destination": "SYD",
-      "calendar_days": 7,
-      "price_usd": 3080.0,
-      "carriers": [
-        "Delta"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SYD%202026-12-20%202026-12-26"
-    },
-    {
-      "departure": "2026-12-20",
-      "return": "2026-12-26",
-      "destination": "SYD",
-      "calendar_days": 7,
-      "price_usd": 3171.0,
-      "carriers": [
-        "United"
-      ],
-      "source": "Google Flights via SerpApi",
-      "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SYD%202026-12-20%202026-12-26"
-    },
-    {
-      "departure": "2026-12-20",
-      "return": "2026-12-26",
-      "destination": "SYD",
-      "calendar_days": 7,
-      "price_usd": 3243.0,
-      "carriers": [
-        "Alaska",
         "Cathay Pacific"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SYD%202026-12-20%202026-12-26"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
     },
     {
-      "departure": "2026-12-20",
-      "return": "2026-12-26",
-      "destination": "SYD",
-      "calendar_days": 7,
-      "price_usd": 3346.0,
+      "departure": "2027-01-07",
+      "return": "2027-01-14",
+      "destination": "AKL",
+      "calendar_days": 8,
+      "price_usd": 1517.0,
       "carriers": [
-        "United"
+        "Alaska",
+        "Fiji Airways"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SYD%202026-12-20%202026-12-26"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20AKL%202027-01-07%202027-01-14"
     },
     {
-      "departure": "2026-12-20",
-      "return": "2026-12-26",
-      "destination": "SYD",
-      "calendar_days": 7,
-      "price_usd": 3696.0,
+      "departure": "2026-12-22",
+      "return": "2026-12-29",
+      "destination": "GUA",
+      "calendar_days": 8,
+      "price_usd": 1541.0,
       "carriers": [
         "Alaska"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SYD%202026-12-20%202026-12-26"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20GUA%202026-12-22%202026-12-29"
     },
     {
-      "departure": "2026-12-20",
-      "return": "2026-12-26",
-      "destination": "SYD",
-      "calendar_days": 7,
-      "price_usd": 4165.0,
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "destination": "DEL",
+      "calendar_days": 4,
+      "price_usd": 1558.0,
       "carriers": [
-        "Alaska",
-        "Qantas"
+        "Delta",
+        "Virgin Atlantic"
       ],
       "source": "Google Flights via SerpApi",
       "fare_status": "Indicative; verify full round-trip total",
-      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SYD%202026-12-20%202026-12-26"
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
+    },
+    {
+      "departure": "2026-12-22",
+      "return": "2026-12-29",
+      "destination": "GUA",
+      "calendar_days": 8,
+      "price_usd": 1598.0,
+      "carriers": [
+        "COPA",
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20GUA%202026-12-22%202026-12-29"
+    },
+    {
+      "departure": "2026-12-22",
+      "return": "2026-12-29",
+      "destination": "GUA",
+      "calendar_days": 8,
+      "price_usd": 1611.0,
+      "carriers": [
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20GUA%202026-12-22%202026-12-29"
+    },
+    {
+      "departure": "2026-12-13",
+      "return": "2026-12-19",
+      "destination": "SJO",
+      "calendar_days": 7,
+      "price_usd": 1643.0,
+      "carriers": [
+        "Alaska",
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SJO%202026-12-13%202026-12-19"
+    },
+    {
+      "departure": "2027-01-07",
+      "return": "2027-01-14",
+      "destination": "AKL",
+      "calendar_days": 8,
+      "price_usd": 1658.0,
+      "carriers": [
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20AKL%202027-01-07%202027-01-14"
+    },
+    {
+      "departure": "2027-01-07",
+      "return": "2027-01-14",
+      "destination": "AKL",
+      "calendar_days": 8,
+      "price_usd": 1658.0,
+      "carriers": [
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20AKL%202027-01-07%202027-01-14"
+    },
+    {
+      "departure": "2026-12-22",
+      "return": "2026-12-29",
+      "destination": "GUA",
+      "calendar_days": 8,
+      "price_usd": 1666.0,
+      "carriers": [
+        "Alaska"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20GUA%202026-12-22%202026-12-29"
+    },
+    {
+      "departure": "2027-01-07",
+      "return": "2027-01-14",
+      "destination": "AKL",
+      "calendar_days": 8,
+      "price_usd": 1708.0,
+      "carriers": [
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20AKL%202027-01-07%202027-01-14"
+    },
+    {
+      "departure": "2027-01-07",
+      "return": "2027-01-14",
+      "destination": "AKL",
+      "calendar_days": 8,
+      "price_usd": 1784.0,
+      "carriers": [
+        "Air New Zealand",
+        "Alaska"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20AKL%202027-01-07%202027-01-14"
+    },
+    {
+      "departure": "2027-01-07",
+      "return": "2027-01-14",
+      "destination": "AKL",
+      "calendar_days": 8,
+      "price_usd": 1784.0,
+      "carriers": [
+        "Alaska",
+        "United"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20AKL%202027-01-07%202027-01-14"
+    },
+    {
+      "departure": "2027-01-07",
+      "return": "2027-01-14",
+      "destination": "AKL",
+      "calendar_days": 8,
+      "price_usd": 1808.0,
+      "carriers": [
+        "Delta"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20AKL%202027-01-07%202027-01-14"
+    },
+    {
+      "departure": "2027-01-07",
+      "return": "2027-01-14",
+      "destination": "AKL",
+      "calendar_days": 8,
+      "price_usd": 1858.0,
+      "carriers": [
+        "Alaska",
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20AKL%202027-01-07%202027-01-14"
+    },
+    {
+      "departure": "2027-01-07",
+      "return": "2027-01-14",
+      "destination": "AKL",
+      "calendar_days": 8,
+      "price_usd": 1883.0,
+      "carriers": [
+        "Air New Zealand",
+        "Alaska"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20AKL%202027-01-07%202027-01-14"
+    },
+    {
+      "departure": "2026-12-13",
+      "return": "2026-12-19",
+      "destination": "SJO",
+      "calendar_days": 7,
+      "price_usd": 1907.0,
+      "carriers": [
+        "Aeromexico"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20SJO%202026-12-13%202026-12-19"
+    },
+    {
+      "departure": "2026-12-22",
+      "return": "2026-12-29",
+      "destination": "GUA",
+      "calendar_days": 8,
+      "price_usd": 1923.0,
+      "carriers": [
+        "Alaska",
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20GUA%202026-12-22%202026-12-29"
+    },
+    {
+      "departure": "2026-12-22",
+      "return": "2026-12-29",
+      "destination": "GUA",
+      "calendar_days": 8,
+      "price_usd": 2343.0,
+      "carriers": [
+        "American"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20GUA%202026-12-22%202026-12-29"
+    },
+    {
+      "departure": "2027-01-16",
+      "return": "2027-01-18",
+      "destination": "DXB",
+      "calendar_days": 3,
+      "price_usd": 3703.0,
+      "carriers": [
+        "Alaska",
+        "Emirates"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DXB%202027-01-16%202027-01-18"
+    },
+    {
+      "departure": "2026-12-22",
+      "return": "2026-12-29",
+      "destination": "GUA",
+      "calendar_days": 8,
+      "price_usd": 4116.0,
+      "carriers": [
+        "Air Canada"
+      ],
+      "source": "Google Flights via SerpApi",
+      "fare_status": "Indicative; verify full round-trip total",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20GUA%202026-12-22%202026-12-29"
     }
   ],
   "history": [
@@ -1042,6 +1261,11 @@
       "date": "2026-11-16",
       "lowest_usd": 787.0,
       "destination": "TPE"
+    },
+    {
+      "date": "2026-11-17",
+      "lowest_usd": 763.0,
+      "destination": "BOG"
     }
   ],
   "lowest_by_destination": {
@@ -1064,8 +1288,8 @@
     "SJO": 611.0,
     "GUA": 588.0,
     "AKL": 939.0,
-    "LIM": 941.0,
-    "DEL": 1391.0,
+    "LIM": 879.0,
+    "DEL": 1093.0,
     "LAX": 178.0,
     "SFO": 148.0,
     "LAS": 183.0,
@@ -1088,6 +1312,95 @@
     "AMS": 858.0,
     "LIS": 842.0
   },
-  "alerts": [],
+  "alerts": [
+    {
+      "destination": "LIM",
+      "previous_usd": 941.0,
+      "current_usd": 879.0,
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
+    },
+    {
+      "destination": "LIM",
+      "previous_usd": 941.0,
+      "current_usd": 879.0,
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
+    },
+    {
+      "destination": "LIM",
+      "previous_usd": 941.0,
+      "current_usd": 879.0,
+      "departure": "2027-02-03",
+      "return": "2027-02-07",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20LIM%202027-02-03%202027-02-07"
+    },
+    {
+      "destination": "DEL",
+      "previous_usd": 1391.0,
+      "current_usd": 1093.0,
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
+    },
+    {
+      "destination": "DEL",
+      "previous_usd": 1391.0,
+      "current_usd": 1119.0,
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
+    },
+    {
+      "destination": "DEL",
+      "previous_usd": 1391.0,
+      "current_usd": 1157.0,
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
+    },
+    {
+      "destination": "DEL",
+      "previous_usd": 1391.0,
+      "current_usd": 1181.0,
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
+    },
+    {
+      "destination": "DEL",
+      "previous_usd": 1391.0,
+      "current_usd": 1181.0,
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
+    },
+    {
+      "destination": "DEL",
+      "previous_usd": 1391.0,
+      "current_usd": 1197.0,
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
+    },
+    {
+      "destination": "DEL",
+      "previous_usd": 1391.0,
+      "current_usd": 1222.0,
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
+    },
+    {
+      "destination": "DEL",
+      "previous_usd": 1391.0,
+      "current_usd": 1223.0,
+      "departure": "2027-01-25",
+      "return": "2027-01-28",
+      "search_url": "https://www.google.com/travel/flights?hl=en&q=round%20trip%20SEA%20DEL%202027-01-25%202027-01-28"
+    }
+  ],
   "note": "Seven rotating destinations checked daily. Google Flights fares are indicative. Verify complete round-trip totals before booking. Other destinations were not checked today."
 }
